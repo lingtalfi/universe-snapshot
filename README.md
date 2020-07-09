@@ -32,7 +32,7 @@ Summary
 - [Big bang: the beginning of the universe](#big-bang-the-beginning-of-the-universe)
     - [The class directory](#the-class-directory)
     - [The a and az functions](#the-a-and-az-functions)
-- [The planet identifier](#theplanetidentifier)
+- [The planet identifier](#the-planet-identifier)
 - [Uni tool: a manager to install planets](#uni-tool-a-manager-to-install-planets)
 - [Related](#related)
 
